@@ -2,3 +2,5 @@ git scm // source  code management
 
 cmd - run as administrator      git --version
 git bash git --version
+
+tabiz
